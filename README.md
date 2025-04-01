@@ -1,1 +1,1 @@
-# Pipeline-de-dados-Telegram
+O projeto tem como objetivo desenvolver um pipeline de dados para um grupo no Telegram. Um bot será responsável por coletar todas as mensagens e, por meio da API, enviá-las para a AWS. Os dados serão então processados e transformados para visualização.
